@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Analyst</h3>
 
 👩🏻‍💻  About Me  
-* Master's degree candidate in Information Systems at **[California State University, Los Angeles](https://www.calstatela.edu/)**<br>
+* Master's degree in Information Systems at **[California State University, Los Angeles](https://www.calstatela.edu/)**<br>
 * Passionate about leveraging data to drive insights and inform business decisions<br>
 * Proficient in data analysis tools such as Python, SQL, and Tableau<br>
 * Strong problem-solving and critical thinking skills<br> 
