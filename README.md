@@ -5,7 +5,7 @@
 👩🏻‍💻  About Me  
 * Master's degree in Information Systems at **[California State University, Los Angeles](https://www.calstatela.edu/)**<br>
 * Passionate about leveraging data to drive insights and make business decisions<br>
-* Proficient in data analysis tools such as Python, SQL, and Tableau<br>
+* Proficient in data analysis tools such as Python, SQL, Tableau, R, SAS, and SAP Analytics<br>
 * Continuous learner to gain new skills in the field of data analytics<br>
 * Seeking opportunities to apply my knowledge and contribute to real-world projects.
 
